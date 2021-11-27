@@ -1,0 +1,215 @@
+body {
+  margin: 0;
+
+}
+
+link shortcut icon {
+ height: 50px;
+}
+header {
+  background-color: #996633;
+  height: 100px;
+}
+
+.container {
+position: relative;
+}
+
+.logohomieheader{
+  float: left;
+}
+
+.loginheader{
+float: right;
+font-size: 25px;
+padding: 33px;
+}
+
+.loginheader a{
+  height: 50px;
+  color: #fff;
+  width: 100%;
+  padding:10px;
+  box-sizing: content-box;
+  text-decoration-line: none;
+  border: 3px solid #fff;
+  border-radius: 10px;
+}
+
+.homie-hat H1 {
+  font-family: marola;
+  color: #fff;
+  font-size: 100px;
+  text-align: center;
+  padding: 100px;
+}
+.container{
+  height: 2900px;
+}
+.homie-hat {
+  height: 500px;
+  background-image: url(baseballcap3.jpg);
+  padding-top: 50px;
+}
+
+.stroke{
+  font-weight: bolder;
+  -webkit-text-stroke: 0.01em #996633;
+}
+
+.about{
+  height: 500px;
+  width: 1150px;
+  margin: 100px;
+}
+
+.about hr{
+  size: 500px;
+  height: 0px;
+  width: 100%;
+  display: inline-block;
+  border-top: 2px #996633 dotted;
+}
+
+.about h2{
+  font-family: cooper black;
+  color: #996633;
+  font-size: 50px;
+}
+.wrapper p{
+  float: none;
+  padding: 25px;
+  font-size: 24px;
+  display: grid;
+  text-align: justify;
+}
+
+.wrapper img{
+  float: left;
+  padding: 5px;
+  width: 330px;
+  height: 330px;
+  border: 3px solid #996633;
+  border-radius: 100px;
+}
+
+.gallery-topi{
+  height: 500px;
+  width: 1150px;
+  margin: 100px;
+}
+
+.gallery-topi hr{
+  size: 500px;
+  height: 0px;
+  width: 100%;
+  display: inline-block;
+  border-top: 2px dotted #996633;
+}
+
+.gallery-topi h2{
+  font-family: cooper black;
+  color: #996633;
+  font-size: 50px;
+  float: right;
+}
+
+.gallery {
+  margin: 20px;
+  border: 3px solid #ccc;
+  float: left;
+  width: 240px;
+  border-radius: 15px;
+}
+
+.gallery:hover {
+  border: 3px solid #996633;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+  font-size: 30px;
+  color: #996633;
+}
+
+.model{
+  height: 500px;
+  width: 1150px;
+  margin: 100px;
+}
+
+.model hr{
+  size: 500px;
+  height: 0px;
+  width: 100%;
+  display: inline-block;
+  border-top: 2px dotted #996633;
+}
+
+.model h2{
+  font-family: cooper black;
+  color: #996633;
+  font-size: 50px;
+  float: left;
+}
+
+
+.order h1 {
+  text-align: center;
+  font-family: cooper black;
+  color: #996633;
+  font-size: 65px;
+}
+
+
+
+.btn {
+background-color: #996633;
+border-radius: 15px;
+color: white;
+padding: 12px 50px;
+text-align: center;
+text-decoration: none;
+display: block;
+font-size: 16px;
+margin: 15px auto;
+width: 200px;
+cursor: pointer;
+justify-content: center;
+}
+
+.btn:hover{
+  background-color: #ffb366;
+}
+
+.footer {
+  background-color: #996633;
+  height: 110px;
+}
+
+.contact-footer {
+  float: right;
+}
+
+.contact-footer img{
+  height: 50px;
+  margin: 25px;
+}
+.logo-img:hover{
+  border: 3px solid #fff;
+  border-radius: 5px;
+  height: 58px;
+}
+
+.logohomiefooter img {
+  height: 110px;
+  display: block;
+  float: left;
+}
